@@ -29,8 +29,8 @@ Entre em contato comigo!
 </div>   
 <div>
     <a href="https://github.com/DanielMhl">
-    <img align="center" height="160em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Danielmhl&show_icons=true&theme=tokyonight">
-    <img align="center" height="160em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMhl&theme=tokyonight&layout=compact"
+    <img align="center" height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Danielmhl&show_icons=true&theme=tokyonight">
+    <img align="center" height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMhl&theme=tokyonight&layout=compact"
 </div>
  </div>    
 <br>
