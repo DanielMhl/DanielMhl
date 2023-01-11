@@ -19,8 +19,14 @@ Entre em contato comigo!
 >[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-marques-951537144/)
 
 <div> 
+
+ <div>
+   <a href="https://github.com/DanielMhl">
+   <img height="180em" src="https://github-readme-stats-DanielMhl.vercel.app/api?username=DanielMhl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-DanielMhl.vercel.app/api/top-langs/?username=DanielMhl&layout=compact&langs_count=11&hide=HLSL,ShaderLab&theme=tokyonight"/>
+
+</div>
  
-  ![Snake animation](https://github.com/DanielMhl/DanielMhl/blob/main/dist/github-contribution-grid-snake.svg)
   ![Snake animation](https://github.com/DanielMhl/DanielMhl/blob/main/dist/github-contribution-grid-snake.svg)
 
 </div>
