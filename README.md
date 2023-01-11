@@ -21,5 +21,6 @@ Entre em contato comigo!
 <div> 
  
   ![Snake animation](https://github.com/DanielMhl/DanielMhl/blob/main/dist/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DanielMhl/DanielMhl/blob/main/dist/github-contribution-grid-snake.svg)
 
 </div>
