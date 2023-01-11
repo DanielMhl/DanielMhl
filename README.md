@@ -21,7 +21,7 @@
 >[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/no_ideia/)
 >[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-marques-951537144/)
 
-<br><br>
+<br>
 
 <div> 
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31yvrf4p6ikkjxlkx3shxviu6n7a&unique={true|1|on|yes}">
