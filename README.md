@@ -35,6 +35,4 @@
    
 <br>
 
-![Snake animation](https://github.com/DanielMhl/DanielMhl/blob/main/dist/github-contribution-grid-snake.svg)
-
 
