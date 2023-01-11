@@ -1,8 +1,10 @@
-## Hello there, General Kenobi
- <img align="right" alt="room" width="400" src="https://github.com/DanielMhl/DanielMhl/blob/3c47299e0d26880bf14ddacec5aea8f7a5196b59/bg.gif
-">
+<div align="center">
 
-### 💻 Tecnologias 
+## 🛰️ Hello there, General Kenobi 🛰️
+</div> 
+<img  align="right" alt="room" width="600"  src="https://raw.githubusercontent.com/DanielMhl/DanielMhl/main/bg.gif"/>
+ 
+### 💻 Tecnologias
 
 >![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 >![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,12 +22,19 @@ Entre em contato comigo!
 >[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/no_ideia/)
 >[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-marques-951537144/)
 
+</div> 
+<br><br><br>
 <div> 
- 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yvrf4p6ikkjxlkx3shxviu6n7a&unique={true|1|on|yes})
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMhl&show_icons=true&theme=dark)
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31yvrf4p6ikkjxlkx3shxviu6n7a&unique={true|1|on|yes}">
+</div>   
+<div>
+    <a href="https://github.com/DanielMhl">
+    <img align="center" height="160em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Danielmhl&show_icons=true&theme=tokyonight">
+    <img align="center" height="160em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMhl&theme=tokyonight&layout=compact"
+</div>
+ </div>    
+<br>
 
 ![Snake animation](https://github.com/DanielMhl/DanielMhl/blob/main/dist/github-contribution-grid-snake.svg)
 
-</div>
+
