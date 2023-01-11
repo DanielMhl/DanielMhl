@@ -20,7 +20,7 @@ Entre em contato comigo!
 
 <div> 
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMhl)](https://github.com/DanieMhl/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMhl&show_icons=true&theme=dark)](https://github.com/DanieMhl/github-readme-stats)
 
  
   ![Snake animation](https://github.com/DanielMhl/DanielMhl/blob/main/dist/github-contribution-grid-snake.svg)
