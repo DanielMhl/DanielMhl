@@ -1,4 +1,6 @@
 ## Hello there, General Kenobi
+ <img align="right" alt="room" width="400" src="https://github.com/DanielMhl/DanielMhl/blob/3c47299e0d26880bf14ddacec5aea8f7a5196b59/bg.gif
+">
 
 ### 💻 Tecnologias 
 
@@ -20,9 +22,10 @@ Entre em contato comigo!
 
 <div> 
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMhl&show_icons=true&theme=dark)](https://github.com/DanieMhl/github-readme-stats)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yvrf4p6ikkjxlkx3shxviu6n7a&unique={true|1|on|yes})
  
-  ![Snake animation](https://github.com/DanielMhl/DanielMhl/blob/main/dist/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMhl&show_icons=true&theme=dark)](https://github.com/DanieMhl/github-readme-stats)
+
+![Snake animation](https://github.com/DanielMhl/DanielMhl/blob/main/dist/github-contribution-grid-snake.svg)
 
 </div>
