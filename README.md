@@ -24,8 +24,8 @@ Entre em contato comigo!
  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yvrf4p6ikkjxlkx3shxviu6n7a&unique={true|1|on|yes})
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMhl&show_icons=true&theme=dark)](https://github.com/DanieMhl/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMhl&show_icons=true&theme=dark)
 
-[![Snake animation](https://github.com/DanielMhl/DanielMhl/blob/main/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DanielMhl/DanielMhl/blob/main/dist/github-contribution-grid-snake.svg)
 
 </div>
