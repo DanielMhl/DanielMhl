@@ -3,7 +3,7 @@
 ## 🛰️ Hello there, General Kenobi 🛰️
  
 </div> 
-<img  align="left" alt="room" width="550"  src="https://raw.githubusercontent.com/DanielMhl/DanielMhl/main/bg2.gif.gif"/>
+<img  align="right" alt="room" width="550"  src="https://raw.githubusercontent.com/DanielMhl/DanielMhl/main/bg2.gif.gif"/>
  
 ### 	🖥️ Tecnologias
 
